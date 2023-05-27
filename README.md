@@ -67,7 +67,7 @@ The Clima-Flutter project is released under the [MIT License](LICENSE).
 
 Feel free to reach out with any questions, suggestions, or feedback. You can also [open an issue](https://github.com/thisisyoussef/Clima-Flutter/issues/new) on this GitHub repository.
 
-Email: [thisisyoussef@example.com](mailto:thisisyoussef@example.com)
+Email: [thisisyoussef@example.com](mailto:youssefiahmedis@gmail.com)
 
 ---
 
